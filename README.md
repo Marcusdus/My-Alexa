@@ -1,10 +1,11 @@
 # romantic-alexa
-## Build an Artificial Assistant
+##Build your own Alexa.
+When you build an Alexa Smart Home skill, users can voice-control their cloud-connected devices by using your skill. ... Your skill reacts to the message by changing the state a device, such as by dimming a light, or by sending information about device state, such as by telling the user whether a light is on or off.
 
-### Full tutorial (video)
-To watch the tutorial, click on the image below
+### Libraries that you are going to use.
+list is below.
 
-(run those in command prompt/cmt/terminal)
+
 For the robot to listen to our voice/speech
 `pip install speechRecognition`
 
