@@ -37,3 +37,5 @@ If you encounter any problems feel free to open a new issue. Before that check o
 
 ## Get the video of project:
 https://youtu.be/icUdRTWB_TA
+
+![vlcsnap-2021-03-05-12h48m44s317](https://user-images.githubusercontent.com/63025671/110105751-71fcac00-7db1-11eb-98c3-3cc6ea943c5b.png)
