@@ -1,24 +1,32 @@
-# My-Alexa
+# romantic-alexa
+## Build an Artificial Assistant
 
-Build your own Alexa
+### Full tutorial (video)
+To watch the tutorial, click on the image below
 
-When you build an Alexa Smart Home skill, users can voice-control their cloud-connected devices by using your skill. ... Your skill reacts to the message by changing the state a device, such as by dimming a light, or by sending information about device state, such as by telling the user whether a light is on or off.
+(run those in command prompt/cmt/terminal)
+For the robot to listen to our voice/speech
+`pip install speechRecognition`
 
+To speak out, or text to speech
+`pip install pyttsx3`
 
-Important libraries that we use in this project.
+For advance control on browser
+`pip install pywhatkit`
 
+To get wikipedia data
+`pip install wikipedia`
 
+To get funny jokes
+`pip install pyjokes`
 
+### For linux users
+Learn all the above commands on terminal. Make sure to use `pip3`, because in linux `pip` refers for `python2` and `pip3` refers to `python3`.
+Install these too - 
+`pip3 install pyAudio`
 
-To speak out, or text to speech pip install pyttsx3
+In case any error pops up install this -
+`pip3 install portAudio`
 
-For advance control on browser pip install pywhatkit
-
-To get wikipedia data pip install wikipedia
-
-To get funny jokes pip install pyjokes
-
-For linux users
-Learn all the above commands on terminal. Make sure to use pip3, because in linux pip refers for python2 and pip3 refers to python3. Install these too - pip3 install pyAudio
-
-In case any error pops up install this - pip3 install portAudio
+#### Issues
+If you encounter any problems feel free to open a new issue. Before that check other closed issues and check if your issue matches with any older issues.
