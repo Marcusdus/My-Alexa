@@ -33,3 +33,7 @@ In case any error pops up install this -
 
 #### Issues
 If you encounter any problems feel free to open a new issue. Before that check other closed issues and check if your issue matches with any older issues.
+
+
+## Get the video of project:
+https://youtu.be/icUdRTWB_TA
